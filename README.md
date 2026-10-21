@@ -1,2 +1,3 @@
-# VMProtect-WebLM
+# VMProtect WebLM
 VMProtect Web License Manager
+yeah its what the title says...
